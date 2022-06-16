@@ -106,9 +106,11 @@ height: 160px;
 }
 
 #markt {
+width: 25%;
 bgcolor: #FFFFCC;
 	
 #feest {
+width: 25%;
 bgcolor: #FF9999;
 	
 .img-feest {
@@ -117,10 +119,12 @@ height: 60px;
 }
 	
 #snoep {
+width: 25%;
 bgcolor: #996666;
 }
 	
 #slingers {
+width: 25%;
 bgcolor: #990033;
 }
 	
