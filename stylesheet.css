@@ -27,11 +27,11 @@ color: orange;
 }
 
 header {
-  width: 100%;
   background-color: #ff0000;
   text-align: center;
-  color: orange
-  padding:10px
+  color: orange;
+  width: 100%;
+  padding:10px;
 }
 
 footer {
@@ -39,12 +39,145 @@ footer {
   left: 0;
   bottom: -100px;
   width: 100%;
-  height: 50px;
+  height: 100px;
 background-color: #0000ff;
 text-align: center;
   padding: 1px;
   color: #FFFFFF;
 }
+
+table {
+width: 100%;
+}
+
+tr {
+height: 160px;
+}
+
+#markt {
+width: 25%;
+bgcolor: #FFFFCC;
+	
+#feest {
+width: 25%;
+bgcolor: #FF9999;
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
+	
+#snoep {
+width: 25%;
+bgcolor: #996666;
+}
+	
+#slingers {
+width: 25%;
+bgcolor: #990033;
+}
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
+
+tr {
+height: 160px;
+}
+	
+#oranje {
+width: 25%;
+bgcolor: #FF9900;
+}
+	
+#hapjes {
+width: 25%;
+bgcolor: 3333FF;
+}
+	img {
+	width: 192px;
+	height: 160px;
+	}
+	
+#speelgoed {
+width: 25%;
+bgcolor: 33FF33;
+	}
+	
+#spelletjes {
+width: 25%;
+bgcolor: 996600;
+	}
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
+	
+tr {
+height: 160px;
+}
+	
+#koning {
+width: 25%;
+bgcolor: CC6600;
+	}
+	
+#koningin {
+width: 25%;
+bgcolor: CC0000;
+	}
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
+	
+#prinses {
+width: 25%;
+bgcolor: 33CCCC;
+	}
+	
+#kroon {
+width: 25%;
+bgcolor: FFCCCC;
+	}
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
+	
+#jarig {
+width: 25%;
+bgcolor: 66FFCC;
+	}
+	
+#taart {
+width: 25%;
+bgcolor: FF0066;
+	}
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
+	
+#spelen {
+width: 25%;
+bgcolor: CCCC33;
+	}
+	
+#tulpen {
+width: 25%;
+bgcolor: 333333;
+	}
+	
+	img {
+	width: 192px;
+	height: 160px;
+	}
 
 table th, td {
   border: 1px solid black;
