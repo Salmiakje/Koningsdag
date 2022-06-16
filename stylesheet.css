@@ -200,6 +200,10 @@ width: 192px;
 height: 160px;
 }
 	
+tr {
+height: 160px;
+}
+	
 #jarig {
 width: 25%;
 bgcolor: #66FFCC;
@@ -227,9 +231,5 @@ bgcolor: #333333;
 	
 img {
 width: 192px;
-height: 160px;
-}
-
-tr {
 height: 160px;
 }
