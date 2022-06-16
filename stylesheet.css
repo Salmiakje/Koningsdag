@@ -16,7 +16,7 @@ color: black;
 
 h1 {
 font-family: calibri;
-font-size: 30px;
+font-size: 50px;
 color: orange;
 }
 
@@ -31,7 +31,6 @@ header {
   text-align: center;
   color: orange;
   width: 100%;
-  padding:10px;
 }
 
 footer {
