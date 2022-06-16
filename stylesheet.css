@@ -27,10 +27,10 @@ color: orange;
 }
 
 header {
+  width: 100%;
   background-color: #ff0000;
   text-align: center;
   color: orange;
-  width: 100%;
   padding: 10px;
 }
 
