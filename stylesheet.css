@@ -128,7 +128,7 @@ width: 25%;
 bgcolor: #990033;
 }
 	
-img {
+.img-slingers {
 width: 192px;
 height: 160px;
 }
@@ -146,7 +146,8 @@ bgcolor: #FF9900;
 width: 25%;
 bgcolor: #3333FF;
 }
-img {
+	
+.img-hapjes {
 width: 192px;
 height: 160px;
 }
@@ -161,7 +162,7 @@ width: 25%;
 bgcolor: #996600;
 }
 	
-img {
+.img-spelletjes {
 width: 192px;
 height: 160px;
 }
@@ -180,7 +181,7 @@ width: 25%;
 bgcolor: #CC0000;
 }
 	
-img {
+.img-koningin {
 width: 192px;
 height: 160px;
 }
@@ -195,7 +196,7 @@ width: 25%;
 bgcolor: #FFCCCC;
 }
 	
-img {
+.img-kroon {
 width: 192px;
 height: 160px;
 }
@@ -214,7 +215,7 @@ width: 25%;
 bgcolor: #FF0066;
 }
 	
-img {
+.img-taart {
 width: 192px;
 height: 160px;
 }
@@ -229,7 +230,7 @@ width: 25%;
 bgcolor: #333333;
 }
 	
-img {
+.img-tulpen {
 width: 192px;
 height: 160px;
 }
