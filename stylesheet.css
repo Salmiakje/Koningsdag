@@ -46,9 +46,13 @@ color: #FFFFFF;
 }
 
 table {
+table-layout: fixed;
 width: 100%;
-	body
-{ font-family: calibri;
+border: 1px solid black;
+border-radius: 10px;
+text-align: center;
+	
+body { font-family: calibri;
 font-size: 12pt;
 line-height: 14pt;
 }
@@ -92,14 +96,6 @@ background-color: #0000ff;
 text-align: center;
 padding: 1px;
 color: #FFFFFF;
-}
-
-table {
-table-layout: fixed;
-width: 100%;
-border: 1px solid black;
-border-radius: 10px;
-text-align: center;
 }
 
 tr {
