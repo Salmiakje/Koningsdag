@@ -46,7 +46,7 @@ color: #FFFFFF;
 }
 
 table {
-width: 50%;
+width: 100%;
 }
 
 table th, td {
@@ -113,7 +113,7 @@ bgcolor: #FFFFCC;
 width: 25%;
 bgcolor: #FF9999;
 	
-img {
+.img-feest {
 width: 192px;
 height: 160px;
 }
