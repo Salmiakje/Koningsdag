@@ -46,7 +46,7 @@ color: #FFFFFF;
 }
 
 table {
-width: 30%;
+width: 100%;
 }
 
 table th, td {
@@ -102,12 +102,12 @@ color: #FFFFFF;
 }
 
 tr {
-height: 160px;
+height: 80px;
 }
 
 #markt {
 width: 25%;
-color: #FFFF99;
+bgcolor: #FFFF99;
 	
 #feest {
 width: 25%;
