@@ -107,12 +107,12 @@ height: 160px;
 
 #markt {
 width: 25%;
-bgcolor: #FFFF99;
+background-color: #FFFF99;
 }
 	
 #feest {
 width: 25%;
-bgcolor: #FF9999;
+background-color: #FF9999;
 }
 	
 .img-feest {
@@ -122,12 +122,12 @@ height: 60px;
 	
 #snoep {
 width: 25%;
-bgcolor: #996666;
+background-color: #996666;
 }
 	
 #slingers {
 width: 25%;
-bgcolor: #990033;
+background-color: #990033;
 }
 	
 .img-slingers {
@@ -141,12 +141,12 @@ height: 160px;
 	
 #oranje {
 width: 25%;
-bgcolor: #FF9900;
+background-color: #FF9900;
 }
 	
 #hapjes {
 width: 25%;
-bgcolor: #3333FF;
+background-color: #3333FF;
 }
 	
 .img-hapjes {
@@ -156,12 +156,12 @@ height: 160px;
 	
 #speelgoed {
 width: 25%;
-bgcolor: #33FF33;
+background-color: #33FF33;
 }
 	
 #spelletjes {
 width: 25%;
-bgcolor: #996600;
+background-color: #996600;
 }
 	
 .img-spelletjes {
@@ -175,12 +175,12 @@ height: 160px;
 	
 #koning {
 width: 25%;
-bgcolor: #CC6600;
+background-color: #CC6600;
 }
 	
 #koningin {
 width: 25%;
-bgcolor: #CC0000;
+background-color: #CC0000;
 }
 	
 .img-koningin {
@@ -190,12 +190,12 @@ height: 160px;
 	
 #prinses {
 width: 25%;
-bgcolor: #33CCCC;
+background-color: #33CCCC;
 }
 	
 #kroon {
 width: 25%;
-bgcolor: #FFCCCC;
+background-color: #FFCCCC;
 }
 	
 .img-kroon {
@@ -209,12 +209,12 @@ height: 160px;
 	
 #jarig {
 width: 25%;
-bgcolor: #66FFCC;
+background-color: #66FFCC;
 }
 	
 #taart {
 width: 25%;
-bgcolor: #FF0066;
+background-color: #FF0066;
 }
 	
 .img-taart {
@@ -224,12 +224,12 @@ height: 160px;
 	
 #spelen {
 width: 25%;
-bgcolor: #CCCC33;
+background-color: #CCCC33;
 }
 	
 #tulpen {
 width: 25%;
-bgcolor: #333333;
+background-color: #333333;
 }
 	
 .img-tulpen {
